@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Mallard", "color": "Brown", "size": "Medium" },
+    { "id": 2, "name": "Pekin", "color": "White", "size": "Large" },
+    { "id": 3, "name": "Khaki Campbell", "color": "Khaki", "size": "Small" }
+    
+  ]

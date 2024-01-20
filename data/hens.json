@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Rhode Island Red", "color": "Red", "size": "Medium" },
+    { "id": 2, "name": "Leghorn", "color": "White", "size": "Small" },
+    { "id": 3, "name": "Plymouth Rock", "color": "Striped", "size": "Medium" }
+    
+  ]
